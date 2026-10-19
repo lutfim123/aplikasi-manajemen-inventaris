@@ -4,9 +4,9 @@ Aplikasi web sederhana untuk manajemen inventaris toko perlengkapan komputer yan
 
 ## Identitas Pengembang
 
-* **Nama Mahasiswa**: \[Isi Nama Anda\]
+* **Nama Mahasiswa**: Muhammad Lutfi Maulana
 
-* **NIM**: \[Isi NIM Anda\]
+* **NIM**: 2495114039
 
 * **Kelas**: TI-A
 
